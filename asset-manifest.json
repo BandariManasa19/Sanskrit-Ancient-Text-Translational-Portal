@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sanskrit-Ancient-Text-Translational-Portal/static/css/main.47e6d50b.css",
+    "main.js": "/Sanskrit-Ancient-Text-Translational-Portal/static/js/main.a709f8ee.js",
+    "index.html": "/Sanskrit-Ancient-Text-Translational-Portal/index.html",
+    "main.47e6d50b.css.map": "/Sanskrit-Ancient-Text-Translational-Portal/static/css/main.47e6d50b.css.map",
+    "main.a709f8ee.js.map": "/Sanskrit-Ancient-Text-Translational-Portal/static/js/main.a709f8ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47e6d50b.css",
+    "static/js/main.a709f8ee.js"
+  ]
+}
